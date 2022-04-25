@@ -6,7 +6,7 @@
         choose-gif
       </h1>
       <h2 class="subtitle">
-        Choosy
+        Get Gify With It
       </h2>
     </div>
   </section>
